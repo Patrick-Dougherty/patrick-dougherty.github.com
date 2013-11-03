@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Services"
-description: ""
+description: "List of my available services."
 ---
 {% include JB/setup %}
-<table>
+<table class="table table-hover">
 <tr><th>Individual Counseling </th><th>Group Counseling</th></tr>
  <tr><td>Grief &amp; Loss </td><td>Grief and Loss Groups</td></tr>
  <tr><td>Trauma Survivors</td><td>Men's Groups</td></tr>
