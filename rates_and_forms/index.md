@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Index"
+title: "Rates &amp; Forms"
 description: "Rates &amp; Forms"
 ---
 {% include JB/setup %}
