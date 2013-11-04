@@ -30,4 +30,3 @@ description: "List of my available services."
  <tr><td>Self-Image</td><td>&nbsp;</td></tr>
  <tr><td>Creative Blocks</td><td></td></tr>
 </table>
-
