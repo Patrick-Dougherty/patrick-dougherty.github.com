@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Services"
-description: "List of my available services."
+group: navigation
+title: Services
+description: List of my available services.
 ---
 {% include JB/setup %}
 <table class="table table-hover">

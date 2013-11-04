@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "My Approach"
-description: ""
+group: navigation
+title: My Approach
+description: My personal and therapeutic approaches.
 ---
 {% include JB/setup %}
 
