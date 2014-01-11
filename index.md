@@ -20,8 +20,8 @@ Mental Health Counselor Associate License (LMHCA) #CG60416551
 
 Member of:
 
-The American Counseling Association (ACA)
-The Association for the Advancement of Gestalt Therapy
+* The American Counseling Association (ACA)
+* The Association for the Advancement of Gestalt Therapy
 
-2013 Master of Arts in Psychology: Antioch University, Seattle, WA
+2013 Master of Arts in Psychology: Antioch University, Seattle, WA<br />
 2001 Bachelor of Fine Arts: Washington State University, Pullman, WA
