@@ -54,30 +54,9 @@
         <nav class="pull-right tales-nav">
           <div class="collapse navbar-collapse">
             <ul class="nav nav-pills navbar-nav">
-
               {% assign pages_list = site.pages %}
               {% assign group = 'navigation' %}
               {% include JB/pages_list %}
-
-              <!-- TODO: put this in a partial? -->
-              <li class="dropdown active">
-                <a class="dropdown-toggle"
-                   data-toggle="dropdown"
-                   href="#">
-                  Blog
-                  <b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a href="index.html">Blog</a></li>
-                  <li><a href="blog-detail.html">Blog Detail</a></li>
-                </ul>
-              </li>
-              <li>
-                <a href="/about/">About</a>
-              </li>
-              <!-- <li> -->
-              <!--   <a href="credits.html">Credits</a> -->
-              <!-- </li> -->
             </ul>
           </div>
         </nav>
@@ -88,21 +67,21 @@
     <div class="widewrapper subheader">
       <div class="container">
         <div class="tales-breadcrumb">
-          <a href="#">About</a>
-          <!-- <span class="separator">&#38;#x2F;</span> -->
-          <!-- <a href="#">Starter</a> -->
+          <a href="{{ HOME_PATH }}">Home</a>
+          <span class="separator">&#x2F;</span>
+          <a href="{{page.url}}">{{page.title}}</a>
           <!-- <span class="separator">&#38;#x2F;</span> -->
           <!-- <a href="#">Starter Page</a> -->
         </div>
 
-        <div class="tales-searchbox">
-          <form action="#" method="get" accept-charset="utf-8">
-            <button class="searchbutton" type="submit">
-              <i class="icon-search"></i>
-            </button>
-            <input class="searchfield" id="searchbox" type="text" placeholder="Search">
-          </form>
-        </div>
+        <!-- <div class="tales&#45;searchbox"> -->
+        <!--   <form action="#" method="get" accept&#45;charset="utf&#45;8"> -->
+        <!--     <button class="searchbutton" type="submit"> -->
+        <!--       <i class="icon&#45;search"></i> -->
+        <!--     </button> -->
+        <!--     <input class="searchfield" id="searchbox" type="text" placeholder="Search"> -->
+        <!--   </form> -->
+        <!-- </div> -->
       </div>
     </div>
   </header>
@@ -116,7 +95,7 @@
         <aside class="col-md-4 blog-aside">
           <div class="aside-widget">
             <header>
-              <h3>A simple widget</h3>
+              <!-- <h3>A simple widget</h3> -->
             </header>
             <div class="body">
             </div>
@@ -130,42 +109,9 @@
     <div class="widewrapper footer">
       <div class="container">
         <div class="row">
-          <!-- <div class="col&#45;md&#45;4 footer&#45;widget"> -->
-          <!--   <h3> <i class="icon&#45;cog"></i>Statistics</h3> -->
-
-          <!--   <span>Even we sometimes loose track of how many articles we actually have here.  This one helps:</span> -->
-
-          <!--   <div class="stats"> -->
-          <!--     <div class="line"> -->
-          <!--       <span class="counter">27</span> -->
-          <!--       <span class="caption">Articles</span> -->
-          <!--     </div> -->
-          <!--     <div class="line"> -->
-          <!--       <span class="counter">208</span> -->
-          <!--       <span class="caption">Comments</span> -->
-          <!--     </div> -->
-          <!--     <div class="line"> -->
-          <!--       <span class="counter">2</span> -->
-          <!--       <span class="caption">Authors</span> -->
-          <!--     </div> -->
-          <!--   </div> -->
-          <!-- </div> -->
-
-          <div class="col-md-4 footer-widget">
-            <h3> <i class="icon-star"></i>Hall of Fame</h3>
-            <ul class="tales-list">
-              <li><a href="index.html">Why we Need to Encrypt All Communication</a></li>
-              <li><a href="#">Selling is a Function of Design. Not Vice-Versa.</a></li>
-              <li><a href="#">It’s Hard To Come Up With Dummy Titles</a></li>
-              <li><a href="#">Why the Internet is Full of Cats</a></li>
-              <li><a href="#">Last Made-Up Headline, I Swear!</a></li>
-            </ul>
-          </div>
 
           <div class="col-md-4 footer-widget">
             <h3> <i class="icon-cog"></i>Contact Me</h3>
-
-            <span>I'm happy to hear from my readers. Thoughts, feedback, critique - all welcome! Drop me a line:</span>
 
             <span class="email">
               <a href="#">patrick[at]patrickodougherty[dot]com</a>
