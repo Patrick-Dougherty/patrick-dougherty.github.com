@@ -15,3 +15,13 @@ description: "Professional site for Patrick Dougherty, MA, LMHCA"
 <p>I have over six years of experience working with children, adolescents, and adults in a variety of settings, ranging from clinical offices and classroom settings, to hospice care situations, to wilderness environments. I constantly research new techniques and styles of helping others, aiming to widen my tool-bag of ways to assist others with an informed, professional approach.</p>
 
 <p>Please take a few moments to peruse my website. Choosing a therapist can be a difficult process. I hope that you appreciate the introduction I have given to myself, so that choosing me, or not, is an easier choice for you. Do not hesitate to contact me to see how I may be of service to you, and thanks for stopping by.</p>
+
+Mental Health Counselor Associate License (LMHCA) #CG60416551
+
+Member of:
+
+The American Counseling Association (ACA)
+The Association for the Advancement of Gestalt Therapy
+
+2013 Master of Arts in Psychology: Antioch University, Seattle, WA
+2001 Bachelor of Fine Arts: Washington State University, Pullman, WA
