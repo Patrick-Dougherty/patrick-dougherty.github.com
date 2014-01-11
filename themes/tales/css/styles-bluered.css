@@ -52,9 +52,15 @@ hr {
   padding-top: 55px;
   padding-bottom: 55px;
 }
+@media screen and (-webkit-min-device-pixel-ratio: 2), screen and (max--moz-device-pixel-ratio: 2) {
 .masthead #logo {
   float: left;
   display: block;
+  background: url(/assets/img/Logo.jpg) no-repeat;
+  background-size: 150px 150px;
+  height: 150px;
+  width: 150px;
+  }
 }
 /* Widewrappers that span the whole width of the page */
 .widewrapper {
