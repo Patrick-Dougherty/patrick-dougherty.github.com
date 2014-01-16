@@ -10,6 +10,7 @@ description: "Professional site for Patrick Dougherty, MA, LMHCA"
 
 <h2 id='welcome'>Welcome!</h2>
 
+<img src="/assets/img/Patrick_in_Nature_Installation.jpg" alt="Willy Wonka" class="about-portrait img-responsive">
 <p>I am Patrick Dougherty, MA, LMHCA. Working in Seattle, I provide counseling services for individuals, ages 15+. I take a gentle approach to counseling, building relationships with my clients in a way that ensures trust and paves the way for powerful growth in many aspects of my clients&#8217; lives. My personal mission is to recognize every moment in life as an opportunity to create more good in the world, and in so doing, take a more proactive approach to helping myself and others learn the most they can about how helpful we can be to each other.</p>
 
 <p>I have over six years of experience working with children, adolescents, and adults in a variety of settings, ranging from clinical offices and classroom settings, to hospice care situations, to wilderness environments. I constantly research new techniques and styles of helping others, aiming to widen my tool-bag of ways to assist others with an informed, professional approach.</p>
