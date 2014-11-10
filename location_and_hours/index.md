@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Location"
-description: "How to get to my office."
+title: "Location &amp; Hours"
+description: "How and when to get to my office."
 ---
 {% include JB/setup %}
+
+Counseling Hours Availability: Fridays and Saturdays 7am-9pm.
 
 <address>
   Aries Building<br />
