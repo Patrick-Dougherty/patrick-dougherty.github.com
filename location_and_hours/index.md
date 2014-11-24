@@ -2,7 +2,6 @@
 layout: page
 title: "Location &amp; Hours"
 description: "How and when to get to my office."
-<body link="blue">
 ---
 {% include JB/setup %}
 
