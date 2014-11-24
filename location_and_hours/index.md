@@ -2,9 +2,10 @@
 layout: page
 title: "Location &amp; Hours"
 description: "How and when to get to my office."
+<body link="blue">
 ---
 {% include JB/setup %}
-<body link="blue">
+
 
 Counseling Hours Availability: Fridays and Saturdays 7am-9pm.
 
