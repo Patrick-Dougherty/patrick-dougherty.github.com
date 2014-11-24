@@ -13,7 +13,7 @@ Parking on Fridays: Street parking, or park in the "Career Pathways" spot in the
 Parking on Saturdays: 1st floor parking lot off Eastlake is 1st Come, First Serve on Saturdays.
 
 <address>
-  Aries Building<br />
+  Areis Building<br />
   2366 Eastlake Ave East<br />
   Seattle, WA 98102<br />
   Suite 213
