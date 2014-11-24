@@ -9,7 +9,7 @@ Counseling Hours Availability: Fridays and Saturdays 7am-9pm.
 
 I share my counseling space with Carol Foltz who runs a career counseling service called <a href="http://seattlecareercounselingcoach.com/">Career Pathways</a>. I highly recommend her services for individuals looking at a possible career transition, and refer my clients to her for more directed services on that subject.
 
-Parking on Fridays: Street parking, or park in the "Career Pathways" spot in the rear parking lot off the alleyway from Louisa St.
+Parking on Fridays: Street parking, or park in the "Career Pathways" spot in the rear parking lot off the alleyway from Louisa St. <br>
 Parking on Saturdays: 1st floor parking lot off Eastlake is 1st Come, First Serve on Saturdays.
 
 <address>
