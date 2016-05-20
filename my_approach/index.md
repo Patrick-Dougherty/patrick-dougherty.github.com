@@ -6,11 +6,11 @@ description: My personal and therapeutic approaches.
 ---
 {% include JB/setup %}
 
-<u><b>Personal Approach</u></b>
+<b><u>Personal Approach</u></b>
 
 My first goal in our therapeutic relationship is getting to know you. I want to develop a thorough understanding of how you find meaning in life, and what your values are. I want to know what obstacles you have faced and what obstacles you have to overcome. I believe that each and every person comes from a completely unique history of encounters throughout their life, and my ability to help an individual is predicated on how well I can understand things from your perspective. I will work to ensure that you feel safe exploring your fears, needs, and goals with me. My hope is that through this trusting relationship, I can help you to understand yourself to a deeper degree, towards profound growth.
 
-<u><b>Therapeutic Approach</u></b>
+<b><u>Therapeutic Approach</u></b>
 
 I utilize approaches and techniques from many individual and family systems theoretical orientations. My natural approach is client-centered; I believe that the client should guide the session more than the therapist. The client-centered approach also provides that the client should always feel a sense of unconditional positive regard. In this sense, no matter what you bring to the session, I promise to treat you with respect, hoping that the trust we have built through the client-centered approach will help you to feel as open and honest with me, and yourself, as possible.
 
