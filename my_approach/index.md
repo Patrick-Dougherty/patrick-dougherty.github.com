@@ -6,7 +6,7 @@ description: My personal and therapeutic approaches.
 ---
 {% include JB/setup %}
 
-<u><b>Personal Approach<u></b>
+<u><b>Personal Approach</u></b>
 
 My first goal in our therapeutic relationship is getting to know you. I want to develop a thorough understanding of how you find meaning in life, and what your values are. I want to know what obstacles you have faced and what obstacles you have to overcome. I believe that each and every person comes from a completely unique history of encounters throughout their life, and my ability to help an individual is predicated on how well I can understand things from your perspective. I will work to ensure that you feel safe exploring your fears, needs, and goals with me. My hope is that through this trusting relationship, I can help you to understand yourself to a deeper degree, towards profound growth.
 
