@@ -11,7 +11,6 @@ description: "How and when to get to my office."
 I share my counseling space with Carol Foltz who runs a career counseling service called <a href="http://seattlecareercounselingcoach.com/"><u>Career Pathways</u></a>. I highly recommend her services for individuals looking at a possible career transition, and refer my clients to her for more directed services on that subject.
 
 <u>Parking</u>
-Fridays: Street parking, or park in the "Career Pathways" spot in the rear parking lot off the alleyway from Louisa St. <br>
 Saturdays: 1st floor parking garage off Eastlake is 1st Come, 1st Served.
 <br>
 <address>
