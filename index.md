@@ -24,5 +24,9 @@ Member of:
 * The American Counseling Association (ACA)
 * The Association for the Advancement of Gestalt Therapy
 
-2013 Master of Arts in Psychology: Antioch University, Seattle, WA<br />
-2001 Bachelor of Fine Arts: Washington State University, Pullman, WA
+2016 EMDR Trained<br>
+2014 Gestalt Institute of Los Angeles (GATLA) Couples Counseling Training Program<br>
+2013 Master of Arts in Psychology: Antioch University, Seattle, WA<br>
+2001 Bachelor of Fine Arts: Washington State University, Pullman, WA<br />
+
+
