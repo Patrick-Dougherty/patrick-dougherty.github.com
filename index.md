@@ -6,7 +6,7 @@ description: "Patrick Dougherty, Gestalt Psychotherapist"
 ---
 {% include JB/setup %}
 
-<p>(360) 358-5679 / patrick[at]patrickodougherty[dot]com</p>
+<p> 425-269-2774 / patrick[at]patrickodougherty[dot]com</p>
 
 <h2 id='welcome'>Welcome!</h2>
 
