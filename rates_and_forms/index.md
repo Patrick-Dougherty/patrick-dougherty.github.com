@@ -12,7 +12,7 @@ Contact me and let's set up a time to meet face to face to explore the potential
 
 Rates
 
-The fee for a private 50-minute session is $90. A 75-minute session is $125. You can talk to me to see if you qualify for the reduced-rate/"sliding scale" fees that I offer. Student discounts also apply.
+The fee for an individual 55-minute session is $120, and $60 per 30 minutes thereafter. You can talk to me to see if you qualify for the reduced-rate/"sliding scale" fees that I offer. Student discounts also apply.
 Group rates are variable and can be discussed in-person.
 Fees are payable at your session, in the form of cash, check, or credit card.
 If you must cancel your appointment please contact me at least 24 hours in advance. This ensures I can see other clients in the opening and can plan accordingly. You will be responsible for the fee when cancellations are received less than 24 hours in advance.
