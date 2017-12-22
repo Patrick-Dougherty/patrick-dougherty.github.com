@@ -2,7 +2,7 @@
 layout: page
 group: navigation
 title: "About Patrick"
-description: "Professional site for Patrick Dougherty, MA, LMHC"
+description: "Professional site for Patrick Dougherty, MA, LPC, QMHP"
 ---
 {% include JB/setup %}
 
