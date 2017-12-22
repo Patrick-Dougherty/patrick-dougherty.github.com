@@ -25,6 +25,6 @@ Forms
 
 Please download, read, fill out and sign the forms below before coming in for your first appointment. The Disclosure Statement is something I need to provide you by law which simply states the way I work and some of the laws governing our work. The Intake Form will provide me some background information about you which will help us in our work and will help me begin to get to know you.
 
-[Informed Consent Disclosure Statement](Patrick Dougherty MA LMHC Informed Consent Disclosure Statement.pdf)<br />
-[Intake Form](Patrick Dougherty MA LMHC Intake Form.pdf)<br />
+[Informed Consent Disclosure Statement](Patrick Dougherty MA LPC QMHP Informed Consent Disclosure Statement.pdf)<br />
+[Intake Form](Patrick Dougherty MA LPC QMHP Intake Form.pdf)<br />
 
